@@ -5,8 +5,8 @@ Description of the content:
 1) the [dataset](dataset) folder contains the **dataset.csv** file in which all the issue reports and pull requests collected from the selected projects are reported.
 
 2) the [study](study) folder contains the raw results used to answer the two research questions. In particular:
-   - the subfolder [study/RQ1](RQ1) comprises the file **RQ1_results.xlsx** reporting the summaries generated for each issue and the related evaluations.
-   - the subfolder [study/RQ2](RQ2) contains the results of the labeling performed by the six raters to identify actual fairness-related concerns with associated observed behaviors, root causes, and likely solutions. More specifically: 
+   - the subfolder [RQ1](study/RQ1) comprises the file **RQ1_results.xlsx** reporting the summaries generated for each issue and the related evaluations.
+   - the subfolder [RQ2](study/RQ2) contains the results of the labeling performed by the six raters to identify actual fairness-related concerns with associated observed behaviors, root causes, and likely solutions. More specifically: 
         - **RQ2_Subset1** reports the raw results of the labeling performed by raters 1 and 2;
         - **RQ2_Subset2** reports the raw results of the labeling performed by raters 3 and 4;
         - **RQ2_Subset3** reports the raw results of the labeling performed by raters 5 and 6;
