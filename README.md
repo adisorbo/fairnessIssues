@@ -1,4 +1,4 @@
-# Replication Package for the paper entitled "FairPlay: Examining Fairness Issues in Machine Learning-based Systems"
+# Replication Package for the paper entitled "Examining Fairness Issues in Machine Learning-based Systems"
 
 Description of the content:
 
